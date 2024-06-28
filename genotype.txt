@@ -1,0 +1,941 @@
+Sample	Source	Country	Continent	Genotype	Subgenotype	Time
+EU168079	Cornea	USA	North America	T4	T4A	2012
+KX688016	Cornea	Chile	South America	T4	T4A	2016
+AF349044	Cornea	South Korea	Asia	T4	T4A	2001
+AY393973	Cornea	China	Asia	T4	T4A	2003
+AY393982	Cornea	China	Asia	T4	T4A	2003
+DQ087296	Contact lens case	France	Europe	T4	T4A	2005
+DQ087297	Contact lens case	France	Europe	T4	T4A	2005
+DQ087298	Contact lens case	France	Europe	T4	T4A	2005
+DQ087299	Cornea	France	Europe	T4	T4A	2005
+EF140629	Cornea	South Korea	Asia	T4	T4A	2006
+EF140633	Cornea	South Korea	Asia	T4	T4A	2006
+EU934056	Contact lens case	Iran	Asia	T4	T4A	2008
+FJ422513	Cornea	USA	North America	T4	T4A	2009
+GQ342621	Cornea	China	Asia	T4	T4A	2009
+JF702887	Contact lens case	Chile	South America	T4	T4A	2006
+JF702905	Contact lens case	Chile	South America	T4	T4A	2006
+JX423591	Cornea	USA	North America	T4	T4A	2012
+KF318460	Cornea	Brazil	South America	T4	T4A	2013
+KJ094677	Cornea	Italy	Europe	T4	T4A	2014
+KJ094679	Cornea	Italy	Europe	T4	T4A	2014
+KJ094689	Cornea	Italy	Europe	T4	T4A	2014
+KJ631483	Cornea	China	Asia	T4	T4A	2014
+KJ631485	Cornea	China	Asia	T4	T4A	2014
+KJ631486	Cornea	China	Asia	T4	T4A	2014
+KJ631487	Cornea	China	Asia	T4	T4A	2014
+KJ631488	Cornea	China	Asia	T4	T4A	2014
+KJ631489	Cornea	China	Asia	T4	T4A	2014
+KJ631490	Cornea	China	Asia	T4	T4A	2014
+KJ631491	Cornea	China	Asia	T4	T4A	2014
+KJ631497	Cornea	China	Asia	T4	T4A	2014
+KJ631498	Cornea	China	Asia	T4	T4A	2014
+KJ631499	Cornea	China	Asia	T4	T4A	2014
+KJ995957	Cornea	Philippines	Asia	T4	T4A	2009
+KP120880	Cornea	Poland	Europe	T4	T4A	2014
+KP184480	Cornea	Poland	Europe	T4	T4A	2014
+KP184485	Cornea	Poland	Europe	T4	T4A	2014
+KT735327	Cornea	Italy	Europe	T4	T4A	2015
+KT735336	Cornea	Italy	Europe	T4	T4A	2015
+KU936105	Cornea	Iran	Asia	T4	T4A	2016
+KU936107	Cornea	Iran	Asia	T4	T4A	2016
+KX688015	Cornea	Chile	South America	T4	T4A	2016
+KX688024	Cornea	Chile	South America	T4	T4A	2016
+KX688031	Cornea	Chile	South America	T4	T4A	2016
+MG917706	Cornea	Iran	Asia	T4	T4A	2018
+KJ631484	Cornea	China	Asia	T4	T4A	2014
+MK182302	Cornea	Iran	Asia	T4	T4A	2018
+AY393987	Cornea	China	Asia	T4	T4A	2003
+JX423594	Cornea	USA	North America	T4	T4A	2012
+EU934058	Contact lens case	Iran	Asia	T4	T4A	2008
+JX423598	Cornea	USA	North America	T4	T4A	2014
+JX423599	Cornea	USA	North America	T4	T4A	2012
+MG917708	Cornea	Iran	Asia	T4	T4A	2018
+HF930498	Contact lens case	France	Europe	T4	T4A	2013
+MF065931	Cornea	Hungary	Europe	T4	T4A	2017
+HM048977	Cornea	Thailand	Asia	T4	T4A	2010
+EF654665	Cornea	Italy	Europe	T4	T4A	2007
+EF654666	Cornea	Italy	Europe	T4	T4A	2007
+EF654667	Cornea	Italy	Europe	T4	T4A	2007
+EU934047	Contact lens case	Iran	Asia	T4	T4A	2008
+KT934547	Cornea	Spain	Europe	T4	T4A	2015
+MK713917	Cornea	India	Asia	T4	T4A	2019
+MK713918	Cornea	India	Asia	T4	T4A	2019
+KF318461	Cornea	Brazil	South America	T4	T4A	2013
+KJ094684	Cornea	Italy	Europe	T4	T4A	2014
+KX578215	Cornea	Brazil	South America	T4	T4A	2016
+EU146071	Contact lens case	France	Europe	T4	T4A	2007
+JX423578	Cornea	USA	North America	T4	T4A	2012
+AF343562	Cornea	USA	North America	T4	T4A	2001
+HE616185	Cornea	Germany	Europe	T4	T4A	2011
+AF343563	Cornea	USA	North America	T4	T4A	2001
+AY393979	Cornea	China	Asia	T4	T4A	2003
+AY393980	Cornea	China	Asia	T4	T4A	2003
+KJ631500	Cornea	China	Asia	T4	T4A	2014
+KJ631501	Cornea	China	Asia	T4	T4A	2014
+KJ631502	Cornea	China	Asia	T4	T4A	2014
+HF930505	Cornea	France	Europe	T4	T4A	2013
+KR872641	Cornea	Turkey	Asia	T4	T4A	2013
+KR872642	Contact lens solution	Turkey	Asia	T4	T4A	2013
+DQ087304	Contact lens case	France	Europe	T4	T4A	2005
+HF930504	Cornea	France	Europe	T4	T4A	2013
+HF930506	Cornea	France	Europe	T4	T4A	2013
+HM036179	Cornea	Sweden	Europe	T4	T4A	2010
+JF702907	Contact lens case	Chile	South America	T4	T4A	2006
+JX423580	Cornea	USA	North America	T4	T4A	2012
+JX423584	Cornea	USA	North America	T4	T4A	2012
+JX423589	Cornea	USA	North America	T4	T4A	2012
+JX423601	Cornea	USA	North America	T4	T4A	2012
+JX423602	Cornea	USA	North America	T4	T4A	2012
+JX423603	Cornea	USA	North America	T4	T4A	2012
+KF318462	Cornea	Brazil	South America	T4	T4A	2013
+KU935612	Contact lens case	Germany	Europe	T4	T4A	2016
+KU936104	Cornea	Iran	Asia	T4	T4A	2016
+MT250849	Cornea	France	Europe	T4	T4A	2020
+JX423576	Cornea	USA	North America	T4	T4A	2012
+HM036175	Cornea	Sweden	Europe	T4	T4A	2010
+FJ422510	Cornea	USA	North America	T4	T4A	2009
+FJ422511	Cornea	USA	North America	T4	T4A	2009
+MK713920	Cornea	India	Asia	T4	T4A	2019
+MK713923	Cornea	India	Asia	T4	T4A	2019
+MK713900	Cornea	India	Asia	T4	T4A	2019
+MK713921	Cornea	India	Asia	T4	T4A	2019
+MK713926	Cornea	India	Asia	T4	T4A	2019
+MK713922	Cornea	India	Asia	T4	T4A	2019
+MK713924	Cornea	India	Asia	T4	T4A	2019
+AF260724	Contact lens case	Austria	Europe	T4	T4A	2000
+AY148956	Cornea	South Korea	Asia	T4	T4A	2003
+EU146069	Cornea	France	Europe	T4	T4A	2007
+HM036174	Cornea	Sweden	Europe	T4	T4A	2010
+AY393991	Cornea	China	Asia	T4	T4A	2003
+EU741254	Cornea	Italy	Europe	T4	T4A	2008
+EU338512	Contact lens case	Philippines	Asia	T15	T15	2007
+KJ094650	Cornea	Italy	Europe	T15	T15	2014
+KU936116	Cornea	Iran	Asia	T9	T15	2016
+KJ094659	Cornea	Italy	Europe	T15	T15	2014
+KR872645	Cornea	Turkey	Asia	T15	T15	2013
+GQ905495	Cornea	Slovakia	Europe	T15	T15	2009
+KJ094642	Cornea	Italy	Europe	T15	T15	2014
+KJ094652	Cornea	Italy	Europe	T15	T15	2014
+KR809868	Cornea	India	Asia	T15	T15	2015
+KJ094651	Cornea	Italy	Europe	T15	T15	2014
+MK673930	Cornea	India	Asia	T15	T15	2019
+FJ195367	Cornea	Italy	Europe	T15	T15	2008
+FJ195369	Cornea	Italy	Europe	T15	T15	2008
+HM036184	Cornea	Sweden	Europe	T15	T15	2010
+KJ094644	Cornea	Italy	Europe	T15	T15	2014
+KJ094645	Cornea	Italy	Europe	T15	T15	2014
+KJ094648	Cornea	Italy	Europe	T15	T15	2014
+KJ094660	Cornea	Italy	Europe	T15	T15	2014
+KJ094671	Cornea	Italy	Europe	T15	T15	2014
+EU741256	Cornea	Italy	Europe	T15	T15	2008
+KX184269	Contact lens solution	Italy	Europe	T15	T15	2016
+EU741255	Cornea	Italy	Europe	T4	T4A	2008
+FJ196651	Contact lens case	USA	North America	T4	T4A	2002
+FJ196653	Cornea	USA	North America	T4	T4A	2002
+KJ094685	Cornea	Italy	Europe	T4	T4A	2014
+KX688035	Cornea	Chile	South America	T4	T4A	2016
+KY498611	Contact lens case	Germany	Europe	T4	T4A	2016
+MF671964	Cornea	Poland	Europe	T4	T4A	2017
+MF671965	Cornea	Poland	Europe	T4	T4A	2017
+MH100816	Cornea	Chile	South America	T4	T4A	2010
+U07403	Cornea	USA	North America	T4	T4A	1994
+DQ087302	Contact lens case	France	Europe	T4	T4A	2005
+DQ087303	Cornea	France	Europe	T4	T4A	2005
+DQ087305	Contact lens case	France	Europe	T4	T4A	2005
+JF702877	Contact lens case	Chile	South America	T4	T4A	2006
+JF702890	Contact lens case	Chile	South America	T4	T4A	2006
+KX688028	Cornea	Chile	South America	T4	T4A	2016
+EU934061	Contact lens case	Iran	Asia	T4	T4A	2008
+KU877550	Cornea	Iran	Asia	T4	T4A	2016
+MF576375	Cornea	Malaysia	Asia	T4	T4A	2017
+KU936102	Cornea	Iran	Asia	T4	T4A	2016
+GQ342625	Cornea	China	Asia	T4 	T4A	2009
+GQ342619	Cornea	China	Asia	T4 	T4Neff	2009
+EU934049	Contact lens case	Iran	Asia	T4	T4A	2008
+KR809869	Cornea	India	Asia	T4	T4E	2015
+KR809866	Cornea	India	Asia	T4	T4E	2015
+KR809867	Cornea	India	Asia	T4	T4E	2015
+EU934060	Contact lens case	Iran	Asia	T4	T4E	2008
+MW411950	Cornea	Brazil	South America	T4	T4A	2019
+HE616186	Cornea	Germany	Europe	T4	T4Neff	2011
+KY859166	Cornea	India	Asia	T4	T4A	2017
+EU338513	Contact lens case	Philippines	Asia	T4	T4A	2007
+KT934542	Cornea	Spain	Europe	T4	T4Neff	2015
+KU936115	Cornea	Iran	Asia	T4	T4A	2016
+KP863883	Cornea	Spain	Europe	T4	T4A	2015
+KP863887	Cornea	Spain	Europe	T4	T4A	2015
+EU934048	Contact lens case	Iran	Asia	T4	T4A	2008
+EU934046	Contact lens case	Iran	Asia	T4	T4A	2008
+EU934050	Contact lens case	Iran	Asia	T4	T4A	2008
+HM036180	Cornea	Sweden	Europe	T4	T4A	2010
+FJ042646	Cornea	Israel	Asia	T4	T4A	2008
+EU741257	Cornea	Italy	Europe	T4	T4A	2008
+AY393974	Cornea	China	Asia	T4	T4A	2003
+AY393985	Cornea	China	Asia	T4	T4A	2003
+AY393989	Cornea	China	Asia	T4	T4A	2003
+DQ087321	Cornea	France	Europe	T4	T4A	2005
+DQ087322	Contact lens case	France	Europe	T4	T4A	2005
+DQ087323	Contact lens case	France	Europe	T4	T4A	2005
+EU741251	Cornea	Italy	Europe	T4	T4A	2008
+FJ042639	Cornea	Israel	Asia	T4	T4A	2008
+FJ195368	Contact lens case	Italy	Europe	T4	T4A	2008
+JQ791107	Cornea	Brazil	South America	T4	T4A	2012
+JX043490	Cornea	Thailand	Asia	T4	T4A	2012
+JX423582	Cornea	USA	North America	T4	T4A	2012
+KJ094640	Cornea	Italy	Europe	T4	T4A	2014
+KJ094656	Cornea	Italy	Europe	T4	T4A	2014
+KJ094658	Cornea	Italy	Europe	T4	T4A	2014
+KJ094661	Cornea	Italy	Europe	T4	T4A	2014
+KJ094663	Cornea	Italy	Europe	T4	T4A	2014
+KJ094664	Cornea	Italy	Europe	T4	T4A	2014
+KJ094668	Cornea	Italy	Europe	T4	T4A	2014
+KJ094670	Cornea	Italy	Europe	T4	T4A	2014
+KJ094673	Cornea	Italy	Europe	T4	T4A	2014
+KJ094674	Cornea	Italy	Europe	T4	T4A	2014
+KJ094682	Cornea	Italy	Europe	T4	T4A	2014
+KJ094690	Cornea	Italy	Europe	T4	T4A	2014
+KJ094692	Cornea	Italy	Europe	T4	T4A	2014
+KJ631494	Cornea	China	Asia	T4	T4A	2014
+KJ631495	Cornea	China	Asia	T4	T4A	2014
+KT735337	Cornea	Italy	Europe	T4	T4A	2015
+KT735338	Cornea	Italy	Europe	T4	T4A	2015
+KX184268	Contact lens solution	Italy	Europe	T4	T4A	2016
+KX688033	Cornea	Chile	South America	T4	T4A	2016
+MH100828	Cornea	Chile	South America	T4	T4A	2010
+AF441811	Cornea	China	Asia	T4	T4A	2001
+AF441812	Cornea	China	Asia	T4	T4A	2001
+AF251938	Cornea	Austria	Europe	T4	T4A	2000
+AF441799	Cornea	China	Asia	T4	T4A	2001
+HF930503	Contact lens case	France	Europe	T4	T4A	2013
+HF930502	Cornea	France	Europe	T4	T4A	2013
+KY072780	Cornea	Spain	Europe	T4	T4A	2016
+GQ342613	Cornea	China	Asia	T4	T4A	2009
+AF352390	Cornea	Germany	Europe	T4	T4A	2001
+GQ342622	Cornea	China	Asia	T4	T4A	2009
+AF260725	Contact lens case	Austria	Europe	T4	T4A	2000
+EF140628	Cornea	South Korea	Asia	T4	T4A	2006
+EU168069	Cornea	USA	North America	T4	T4A	2012
+FJ196647	Cornea	USA	North America	T4	T4A	2002
+FJ196650	Contact lens solution	USA	North America	T4	T4A	2002
+FJ196652	Cornea	USA	North America	T4	T4A	2002
+FJ196654	Contact lens solution	USA	North America	T4	T4A	2002
+FJ196655	Cornea	USA	North America	T4	T4A	2002
+FJ196657	Cornea	USA	North America	T4	T4A	2002
+HM036183	Cornea	Sweden	Europe	T4	T4A	2010
+JX423579	Cornea	USA	North America	T4	T4A	2014
+JX423609	Cornea	Italy	Europe	T4	T4A	2011
+KJ631496	Cornea	China	Asia	T4	T4A	2014
+KP184479	Cornea	Poland	Europe	T4	T4A	2014
+KP184481	Cornea	Poland	Europe	T4	T4A	2014
+KP184482	Cornea	Poland	Europe	T4	T4A	2014
+KP184483	Cornea	Poland	Europe	T4	T4A	2014
+KT735331	Cornea	Italy	Europe	T4	T4A	2015
+KY859171	Cornea	India	Asia	T4	T4A	2017
+KY859172	Cornea	India	Asia	T4	T4A	2017
+MF671967	Cornea	Poland	Europe	T4	T4A	2017
+MT250848	Cornea	France	Europe	T4	T4A	2020
+U07408	Cornea	USA	North America	T4	T4A	1994
+AF260719	Contact lens case	Austria	Europe	T4	T4A	2000
+KJ094687	Cornea	Italy	Europe	T4	T4A	2014
+FJ196648	Cornea	USA	North America	T4	T4A	2002
+KT735328	Cornea	Italy	Europe	T4	T4A	2015
+KJ631492	Cornea	China	Asia	T4	T4A	2014
+JX423608	Cornea	USA	North America	T4	T4A	2011
+JX423587	Cornea	USA	North America	T4	T4A	2012
+AB447386	Cornea	Japan	Asia	T4	T4A	2008
+AB554223	Cornea	Japan	Asia	T4	T4A	2010
+AB554224	Contact lens case	Japan	Asia	T4	T4A	2010
+AB741047	Cornea	Japan	Asia	T4	T4A	2007
+AF534135	Cornea	India	Asia	T4	T4A	2002
+AF534139	Cornea	Pakistan	Asia	T4	T4A	2002
+AF534156	Cornea	Pakistan	Asia	T4	T4A	2002
+DQ087315	Contact lens case	France	Europe	T4	T4A	2005
+DQ087316	Contact lens case	France	Europe	T4	T4A	2005
+DQ087317	Cornea	France	Europe	T4	T4A	2005
+DQ087318	Contact lens case	France	Europe	T4	T4A	2005
+DQ087319	Contact lens case	France	Europe	T4	T4A	2005
+EF140627	Cornea	South Korea	Asia	T4	T4A	2006
+EF140638	Cornea	South Korea	Asia	T4	T4A	2006
+EU168070	Cornea	USA	North America	T4	T4A	2012
+EU168078	Cornea	USA	North America	T4	T4A	2012
+EU168080	Cornea	USA	North America	T4	T4A	2012
+HF930507	Cornea	France	Europe	T4	T4A	2013
+HF930508	Cornea	France	Europe	T4	T4A	2013
+JF702879	Contact lens case	Chile	South America	T4	T4A	2006
+JX423577	Cornea	USA	North America	T4	T4A	2012
+JX423581	Cornea	USA	North America	T4	T4A	2012
+JX423583	Cornea	USA	North America	T4	T4A	2012
+JX423585	Cornea	USA	North America	T4	T4A	2012
+JX423586	Cornea	USA	North America	T4	T4A	2012
+JX423604	Cornea	USA	North America	T4	T4A	2012
+KJ094678	Cornea	Italy	Europe	T4	T4A	2014
+KT735326	Cornea	Italy	Europe	T4	T4A	2015
+KT735334	Cornea	Italy	Europe	T4	T4A	2015
+KU877548	Cornea	Iran	Asia	T4	T4A	2016
+KU877549	Cornea	Iran	Asia	T4	T4A	2016
+KU877551	Cornea	Iran	Asia	T4	T4A	2016
+KU877554	Cornea	Iran	Asia	T4	T4A	2016
+KU877555	Cornea	Iran	Asia	T4	T4A	2016
+KU936111	Cornea	Iran	Asia	T4	T4A	2016
+KX688021	Cornea	Chile	South America	T4	T4A	2016
+KX688023	Cornea	Chile	South America	T4	T4A	2016
+KX688025	Cornea	Chile	South America	T4	T4A	2016
+KX688027	Cornea	Chile	South America	T4	T4A	2016
+KX688032	Cornea	Chile	South America	T4	T4A	2016
+KX688036	Cornea	Chile	South America	T4	T4A	2016
+MH100827	Cornea	Chile	South America	T4	T4A	2010
+MH100829	Cornea	Chile	South America	T4	T4A	2010
+MH100838	Cornea	Chile	South America	T4	T4A	2010
+MW411800	Cornea	Brazil	South America	T4	T4A	2019
+U07410	Cornea	USA	North America	T4	T4A	1994
+KJ094672	Cornea	Italy	Europe	T4	T4A	2014
+KJ631493	Cornea	China	Asia	T4	T4A	2014
+EF140626	Cornea	South Korea	Asia	T4	T4A	2006
+EU146070	Contact lens case	France	Europe	T4	T4A	2007
+JF702872	Contact lens case	Chile	South America	T4	T4A	2006
+JF702874	Contact lens case	Chile	South America	T4	T4A	2006
+JF702875	Contact lens case	Chile	South America	T4	T4A	2006
+JF702878	Contact lens case	Chile	South America	T4	T4A	2006
+JF702880	Contact lens case	Chile	South America	T4	T4A	2006
+JF702881	Contact lens case	Chile	South America	T4	T4A	2006
+JF702883	Contact lens case	Chile	South America	T4	T4A	2006
+JF702885	Contact lens case	Chile	South America	T4	T4A	2006
+JF702886	Contact lens case	Chile	South America	T4	T4A	2006
+JF702888	Contact lens case	Chile	South America	T4	T4A	2006
+JF702891	Contact lens case	Chile	South America	T4	T4A	2006
+JF702892	Contact lens case	Chile	South America	T4	T4A	2006
+JF702894	Contact lens case	Chile	South America	T4	T4A	2006
+JF702895	Contact lens case	Chile	South America	T4	T4A	2006
+JF702897	Contact lens case	Chile	South America	T4	T4A	2006
+JF702899	Contact lens case	Chile	South America	T4	T4A	2006
+JF702900	Contact lens case	Chile	South America	T4	T4A	2006
+JF702902	Contact lens case	Chile	South America	T4	T4A	2006
+JF702903	Contact lens case	Chile	South America	T4	T4A	2006
+JF702909	Contact lens case	Chile	South America	T4	T4A	2006
+JF702911	Contact lens case	Chile	South America	T4	T4A	2006
+JX423592	Cornea	USA	North America	T4	T4A	2012
+KU936109	Cornea	Iran	Asia	T4	T4A	2016
+KU936112	Cornea	Iran	Asia	T4	T4A	2016
+KX688013	Cornea	Chile	South America	T4	T4A	2016
+KX688017	Cornea	Chile	South America	T4	T4A	2018
+KX688019	Cornea	Chile	South America	T4	T4A	2016
+KX688026	Cornea	Chile	South America	T4	T4A	2016
+KX688029	Cornea	Chile	South America	T4	T4A	2016
+KX688030	Cornea	Chile	South America	T4	T4A	2016
+KY072781	Cornea	Spain	Europe	T4	T4A	2016
+MH100809	Cornea	Chile	South America	T4	T4A	2010
+MH100813	Cornea	Chile	South America	T4	T4A	2010
+MH100814	Cornea	Chile	South America	T4	T4A	2010
+MH100815	Cornea	Chile	South America	T4	T4A	2010
+MH100817	Cornea	Chile	South America	T4	T4A	2010
+MH100819	Cornea	Chile	South America	T4	T4A	2010
+MH100821	Cornea	Chile	South America	T4	T4A	2010
+MH100825	Cornea	Chile	South America	T4	T4A	2010
+MH100830	Cornea	Chile	South America	T4	T4A	2010
+MH100834	Cornea	Chile	South America	T4	T4A	2010
+MH100835	Cornea	Chile	South America	T4	T4A	2010
+MH100847	Cornea	Chile	South America	T4	T4A	2010
+MH100848	Cornea	Chile	South America	T4	T4A	2010
+JF702898	Contact lens case	Chile	South America	T4	T4A	2006
+KP728281	Cornea	Poland	Europe	T4	T4A	2014
+KP728282	Cornea	Poland	Europe	T4	T4A	2014
+KT934538	Cornea	Spain	Europe	T4	T4A	2015
+KT934544	Contact lens case	Spain	Europe	T4	T4A	2015
+AF441802	Cornea	China	Asia	T4	T4F	2001
+AB813164	Cornea	France	Europe	T1	T1	2014
+AF343559	Cornea	USA	North America	T4	T4B	2001
+HM036182	Cornea	Sweden	Europe	T4	T4Neff	2010
+FJ042636	Cornea	Israel	Asia	T4	T4C	2008
+FJ042649	Cornea	Israel	Asia	T4	T4C	2008
+FJ422533	Cornea	USA	North America	T4	T4C	2009
+FJ422534	Cornea	USA	North America	T4	T4C	2009
+JX423611	Cornea	Mexico	North America	T4	T4C	2011
+FJ422535	Cornea	USA	North America	T4	T4C	2009
+MF579529	Cornea	Brazil	South America	T4	T4C	2017
+EU168075	Cornea	USA	North America	T4	T4C	2012
+FJ815176	Contact lens case	Philippines	Asia	T4	T4C	2009
+MF164154	Cornea	Brazil	South America	T4	T4C	2017
+FJ422540	Cornea	USA	North America	T4	T4C	2009
+FJ422541	Cornea	USA	North America	T4	T4C	2009
+FJ422542	Cornea	USA	North America	T4	T4C	2009
+FJ422543	Cornea	USA	North America	T4	T4C	2009
+FJ422544	Cornea	USA	North America	T4	T4C	2009
+FJ422545	Cornea	USA	North America	T4	T4C	2009
+KJ094686	Cornea	Italy	Europe	T4	T4C	2014
+AY694138	Cornea	India	Asia	T4	T4C	2004
+AY694143	Cornea	India	Asia	T4	T4C	2004
+JX423605	Cornea	USA	North America	T4	T4C	2012
+AF441795	Cornea	China	Asia	T4	T4C	2001
+AY694145	Cornea	India	Asia	T4	T4C	2004
+AF441793	Cornea	China	Asia	T4	T4C	2001
+AF441794	Cornea	China	Asia	T4	T4C	2001
+AF534144	Cornea	India	Asia	T4	T4C	2002
+KT934543	Contact lens case	Spain	Europe	T4	T4C	2015
+KR809870	Cornea	India	Asia	T4	T4C	2015
+FJ422537	Cornea	USA	North America	T4	T4C	2009
+FJ422538	Cornea	USA	North America	T4	T4C	2009
+FJ422539	Cornea	USA	North America	T4	T4C	2009
+KJ094680	Cornea	Italy	Europe	T4	T4C	2014
+KR809862	Cornea	India	Asia	T4	T4C	2015
+KT934541	Cornea	Spain	Europe	T4	T4C	2015
+MF164153	Cornea	Brazil	South America	T4	T4C	2017
+AY148963	Cornea	South Korea	Asia	T4	T4C	2003
+EF140625	Cornea	South Korea	Asia	T4	T4C	2006
+FJ422536	Cornea	USA	North America	T4	T4C	2009
+JX423610	Cornea	USA	North America	T4	T4C	2011
+U07401	Cornea	USA	North America	T4	T4C	1996
+AF441807	Cornea	China	Asia	T4	T4C	2001
+AF441808	Cornea	China	Asia	T4	T4C	2001
+AY393996	Cornea	China	Asia	T4	T4C	2003
+DQ087314	Cornea	France	Europe	T4	T4C	2005
+EU146073	Contact lens case	France	Europe	T4	T4C	2007
+FJ422528	Cornea	USA	North America	T4	T4C	2009
+FJ422529	Cornea	USA	North America	T4	T4C	2009
+FJ422530	Cornea	USA	North America	T4	T4C	2009
+FJ422531	Cornea	USA	North America	T4	T4C	2009
+FJ422532	Cornea	USA	North America	T4	T4C	2009
+JX423607	Cornea	USA	North America	T4	T4C	2011
+KR809863	Cornea	India	Asia	T4	T4C	2015
+KR809871	Cornea	India	Asia	T4	T4C	2015
+KT735332	Cornea	Italy	Europe	T4	T4C	2015
+KY498610	Contact lens case	Germany	Europe	T4	T4C	2016
+KY964317	Cornea	Malaysia	Asia	T4	T4C	2017
+KY964319	Cornea	Malaysia	Asia	T4	T4C	2017
+KY964320	Cornea	Malaysia	Asia	T4	T4C	2017
+MF671966	Cornea	Poland	Europe	T4	T4C	2017
+HM036181	Cornea	Sweden	Europe	T4	T4F	2010
+HF930497	Cornea	France	Europe	T4	T4F	2013
+HF930496	Cornea	France	Europe	T4	T4F	2013
+HF930494	Cornea	France	Europe	T4	T4F	2013
+GQ304897	Cornea	Malaysia	Asia	T4	T4F	2009
+HF930495	Contact lens case	France	Europe	T4	T4F	2013
+GQ304896	Cornea	Malaysia	Asia	T4	T4F	2009
+EF140630	Cornea	South Korea	Asia	T4	T4F	2006
+AY148959	Cornea	South Korea	Asia	T4	T4F	2003
+AY148960	Cornea	South Korea	Asia	T4	T4F	2003
+AY148961	Cornea	South Korea	Asia	T4	T4F	2003
+AY148962	Cornea	South Korea	Asia	T4	T4F	2003
+FJ218458	Cornea	USA	North America	T10	T10	2002
+EU934059	Contact lens case	Iran	Asia	T10	T10	2008
+KR809858	Cornea	India	Asia	T10	T10	2015
+KR809859	Cornea	India	Asia	T10	T10	2015
+MK713906	Cornea	India	Asia	T12	T12	2019
+KU936103	Cornea	Iran	Asia	T2	T2	2016
+MF113385	Cornea	Spain	Europe	T2	T2	2017
+AF251939	Cornea	Austria	Europe	T2	T2	2000
+KX688012	Cornea	Chile	South America	T2	T2	2016
+HF930510	Contact lens case	France	Europe	T2	T2	2013
+DQ087290	Contact lens case	France	Europe	T2	T2	2005
+DQ087289	Contact lens case	France	Europe	T2	T2	2005
+FJ422546	Cornea	USA	North America	T5	T5	2009
+AB741044	Cornea	Japan	Asia	T5	T5	2007
+EU146072	Contact lens case	France	Europe	T5	T5	2007
+FJ815175	Contact lens case	Philippines	Asia	T5	T5	2009
+FJ815177	Contact lens case	Philippines	Asia	T5	T5	2009
+HF930511	Cornea	France	Europe	T5	T5	2013
+KC438381	Cornea	Australia	Oceania	T5	T5	2013
+KJ476523	Contact lens case	Germany	Europe	T5	T5	2014
+KU175891	Cornea	India	Asia	T5	T5	2015
+KX709489	Cornea	India	Asia	T5	T5	2016
+KX709490	Contact lens solution	India	Asia	T5	T5	2016
+MF350346	Cornea	Egypt	Africa	T5	T5	2017
+EU338515	Contact lens case	Philippines	Asia	T5	T5	2007
+EU338514	Contact lens case	Philippines	Asia	T5	T5	2007
+KT934536	Cornea	Spain	Europe	T5	T5	2015
+FJ815178	Contact lens case	Philippines	Asia	T5	T5	2009
+FJ815179	Contact lens case	Philippines	Asia	T5	T5	2009
+FJ815181	Contact lens case	Philippines	Asia	T5	T5	2009
+FJ815182	Contact lens case	Philippines	Asia	T5	T5	2009
+MK713914	Cornea	India	Asia	T12	T12	2019
+EU686716	Contact lens case	Spain	Europe	T12	T12	2008
+MK713915	Cornea	India	Asia	T12	T12	2019
+FJ815180	Contact lens case	Philippines	Asia	T1	T1	2009
+FJ196645	Cornea	USA	North America	T1	T1	2002
+KP688374	Cornea	Poland	Europe	T1	T1	2014
+AF441814	Cornea	China	Asia	T3	T3	2001
+AF019052	Cornea	Sweden	Europe	T3	T3	1997
+AF441800	Cornea	China	Asia	T3	T3	2001
+FJ042644	Cornea	Israel	Asia	T3	T3	2008
+HM036185	Cornea	Sweden	Europe	T3	T3	2010
+AF441805	Cornea	China	Asia	T3	T3	2001
+KU175890	Cornea	India	Asia	T3	T3	2015
+AF441806	Cornea	China	Asia	T3	T3	2001
+AY393986	Cornea	China	Asia	T3	T3	2003
+HF930492	Contact lens case	France	Europe	T3	T3	2013
+KF914142	Cornea	Mexico	North America	T3	T3	2013
+KY072779	Cornea	Spain	Europe	T3	T3	2016
+S81337	Cornea	USA	North America	T3	T3	1996
+MF350347	Cornea	Egypt	Africa	T3	T3	2017
+KJ094643	Cornea	Italy	Europe	T3	T3	2014
+KJ094655	Cornea	Italy	Europe	T3	T3	2014
+KJ094641	Cornea	Italy	Europe	T3	T3	2014
+KJ094669	Cornea	Italy	Europe	T3	T3	2014
+AF441813	Cornea	China	Asia	T3	T3	2001
+DQ087295	Contact lens case	France	Europe	T3	T3	2005
+GQ905499	Cornea	Slovakia	Europe	T3	T3	2009
+HF930493	Contact lens case	France	Europe	T3	T3	2013
+KF010846	Cornea	Spain	Europe	T3	T3	2014
+KJ094639	Cornea	Italy	Europe	T3	T3	2014
+KJ094647	Cornea	Italy	Europe	T3	T3	2014
+KJ094649	Cornea	Italy	Europe	T3	T3	2014
+KJ094654	Cornea	Italy	Europe	T3	T3	2014
+KJ094665	Cornea	Italy	Europe	T3	T3	2014
+KJ094666	Cornea	Italy	Europe	T3	T3	2014
+KJ476513	Contact lens case	Germany	Europe	T3	T3	2014
+MZ427912	Cornea	Iraq	Asia	T3	T3	2021
+MZ437365	Cornea	Iraq	Asia	T3	T3	2019
+KJ094646	Cornea	Italy	Europe	T3	T3	2014
+KR872644	Cornea	Turkey	Asia	T3	T3	2013
+MZ314026	Cornea	Iraq	Asia	T3	T3	2019
+KJ631482	Cornea	China	Asia	T4	T4E	2014
+DQ087293	Contact lens case	France	Europe	T4	T4E	2005
+DQ087294	Contact lens case	France	Europe	T4	T4E	2005
+KR809860	Cornea	India	Asia	T4	T4E	2015
+KR809852	Cornea	India	Asia	T4	T4E	2015
+JQ354982	Cornea	Spain	Europe	T4	T4E	2012
+KR809855	Cornea	India	Asia	T4	T4E	2015
+KR809856	Cornea	India	Asia	T4	T4E	2015
+KR809857	Cornea	India	Asia	T4	T4E	2015
+KR809861	Cornea	India	Asia	T4	T4E	2015
+KY884984	Contact lens solution	India	Asia	T4	T4E	2017
+KR809854	Cornea	India	Asia	T4	T4E	2015
+KR809853	Cornea	India	Asia	T4	T4E	2015
+KP184484	Cornea	Poland	Europe	T4	T4E	2014
+AF534141	Cornea	Pakistan	Asia	T4	T4E	2002
+AF534142	Cornea	Pakistan	Asia	T4	T4E	2002
+GQ905497	Cornea	Slovakia	Europe	T4	T4E	2009
+FJ042635	Cornea	Israel	Asia	T4	T4D	2008
+MH100833	Cornea	Chile	South America	T4	T4D	2010
+MH100836	Cornea	Chile	South America	T4	T4D	2010
+FJ042637	Cornea	Israel	Asia	T4	T4D	2008
+FJ042642	Cornea	Israel	Asia	T4	T4D	2008
+FJ042651	Cornea	Israel	Asia	T4	T4D	2008
+KJ631454	Cornea	China	Asia	T4	T4D	2014
+KU936110	Cornea	Iran	Asia	T4	T4D	2016
+GQ342615	Cornea	China	Asia	T4	T4D	2009
+GQ342616	Cornea	China	Asia	T4	T4D	2009
+GQ342618	Cornea	China	Asia	T4	T4D	2009
+GQ342624	Cornea	China	Asia	T4	T4D	2009
+JF702882	Contact lens case	Chile	South America	T4	T4D	2006
+KJ631421	Cornea	China	Asia	T4	T4D	2014
+KJ631422	Cornea	China	Asia	T4	T4D	2014
+KJ631423	Cornea	China	Asia	T4	T4D	2014
+KJ631424	Cornea	China	Asia	T4	T4D	2014
+KJ631425	Cornea	China	Asia	T4	T4D	2014
+KJ631427	Cornea	China	Asia	T4	T4D	2014
+KJ631428	Cornea	China	Asia	T4	T4D	2014
+KJ631429	Cornea	China	Asia	T4	T4D	2014
+KJ631430	Cornea	China	Asia	T4	T4D	2014
+KJ631431	Cornea	China	Asia	T4	T4D	2014
+KJ631452	Cornea	China	Asia	T4	T4D	2014
+MK713901	Cornea	India	Asia	T4	T4D	2019
+MK713919	Cornea	India	Asia	T4	T4D	2019
+AY393976	Cornea	China	Asia	T4	T4D	2003
+KU936106	Cornea	Iran	Asia	T4	T4D	2016
+HM036178	Cornea	Sweden	Europe	T4	T4D	2010
+MF671963	Cornea	Poland	Europe	T4	T4D	2017
+KJ094662	Cornea	Italy	Europe	T4	T4D	2014
+AF534152	Cornea	India	Asia	T4	T4D	2002
+AY393972	Cornea	China	Asia	T4	T4D	2003
+AY393997	Cornea	China	Asia	T4	T4D	2003
+DQ087288	Contact lens case	France	Europe	T4	T4D	2005
+DQ264391	Cornea	Turkey	Asia	T4	T4D	2005
+GQ342614	Cornea	China	Asia	T4	T4D	2009
+GQ342620	Cornea	China	Asia	T4	T4D	2009
+GQ342623	Cornea	China	Asia	T4	T4D	2009
+JF702884	Contact lens case	Chile	South America	T4	T4D	2006
+KJ631455	Cornea	China	Asia	T4	T4D	2014
+KJ631456	Cornea	China	Asia	T4	T4D	2014
+KJ631457	Cornea	China	Asia	T4	T4D	2014
+KJ631458	Cornea	China	Asia	T4	T4D	2014
+KJ631459	Cornea	China	Asia	T4	T4D	2014
+FJ042638	Cornea	Israel	Asia	T4	T4D	2008
+FJ042643	Cornea	Israel	Asia	T4	T4D	2008
+FJ042648	Cornea	Israel	Asia	T4	T4D	2008
+KJ631460	Cornea	China	Asia	T4	T4D	2014
+KJ631461	Cornea	China	Asia	T4	T4D	2014
+DQ185606	Cornea	Turkey	Asia	T4	T4D	2005
+JF702893	Contact lens case	Chile	South America	T4	T4D	2006
+JF702901	Contact lens case	Chile	South America	T4	T4D	2006
+JF702910	Contact lens case	Chile	South America	T4	T4D	2006
+MH100807	Cornea	Chile	South America	T4	T4D	2010
+MH100808	Cornea	Chile	South America	T4	T4D	2010
+MH100818	Cornea	Chile	South America	T4	T4D	2010
+MH100820	Cornea	Chile	South America	T4	T4D	2010
+MH100822	Cornea	Chile	South America	T4	T4D	2010
+MH100831	Cornea	Chile	South America	T4	T4D	2010
+MH100832	Cornea	Chile	South America	T4	T4D	2010
+MH100849	Cornea	Chile	South America	T4	T4D	2010
+KJ631445	Cornea	China	Asia	T4	T4D	2014
+KJ631446	Cornea	China	Asia	T4	T4D	2014
+EU168068	Contact lens case	France	Europe	T4	T4D	2007
+KJ631442	Cornea	China	Asia	T4	T4D	2014
+KJ631443	Cornea	China	Asia	T4	T4D	2014
+KJ631444	Cornea	China	Asia	T4	T4D	2014
+KJ631447	Cornea	China	Asia	T4	T4D	2014
+KJ631448	Cornea	China	Asia	T4	T4D	2014
+KJ631449	Cornea	China	Asia	T4	T4D	2014
+KJ631450	Cornea	China	Asia	T4	T4D	2014
+KJ631451	Cornea	China	Asia	T4	T4D	2014
+LC629632	Cornea	Iraq	Asia	T4	T4D	2020
+AY393978	Cornea	China	Asia	T4	T4D	2003
+AY393983	Cornea	China	Asia	T4	T4D	2003
+HM036177	Cornea	Sweden	Europe	T4	T4D	2010
+KJ631432	Cornea	China	Asia	T4	T4D	2014
+KJ631433	Cornea	China	Asia	T4	T4D	2014
+KJ631434	Cornea	China	Asia	T4	T4D	2014
+KJ631435	Cornea	China	Asia	T4	T4D	2014
+KJ631436	Cornea	China	Asia	T4	T4D	2014
+KJ631437	Cornea	China	Asia	T4	T4D	2014
+KJ631438	Cornea	China	Asia	T4	T4D	2014
+KJ631439	Cornea	China	Asia	T4	T4D	2014
+KJ631440	Cornea	China	Asia	T4	T4D	2014
+KJ631441	Cornea	China	Asia	T4	T4D	2014
+AF534149	Cornea	India	Asia	T4	T4D	2002
+AY393988	Cornea	China	Asia	T4	T4D	2003
+AY393994	Cornea	China	Asia	T4	T4D	2003
+AY694141	Cornea	India	Asia	T4	T4D	2004
+DQ087287	Contact lens case	France	Europe	T4	T4D	2005
+EF205325	Cornea	Spain	Europe	T4	T4D	2007
+HF930509	Cornea	France	Europe	T4	T4D	2013
+JF702876	Contact lens case	Chile	South America	T4	T4D	2006
+JF702906	Contact lens case	Chile	South America	T4	T4D	2006
+KJ094676	Cornea	Italy	Europe	T4	T4D	2014
+KJ476519	Contact lens case	Germany	Europe	T4	T4D	2014
+KJ631453	Cornea	China	Asia	T4	T4D	2014
+KX688020	Cornea	Chile	South America	T4	T4D	2016
+KX688034	Cornea	Chile	South America	T4	T4D	2016
+MH100812	Cornea	Chile	South America	T4	T4D	2010
+MH100839	Cornea	Chile	South America	T4	T4D	2010
+KJ094653	Cornea	Italy	Europe	T4	T4D	2014
+JF702904	Contact lens case	Chile	South America	T4	T4D	2006
+AY694144	Cornea	India	Asia	T4	T4D	2004
+KP714398	Cornea	Iran	Asia	T4	T4D	2015
+KX387859	Cornea	Iran	Asia	T4	T4D	2016
+AY393992	Cornea	China	Asia	T4	T4D	2003
+KX688022	Cornea	Chile	South America	T4	T4E	2016
+JF702913	Contact lens case	Chile	South America	T4	T4E	2006
+JF702914	Contact lens case	Chile	South America	T4	T4E	2006
+MH100837	Cornea	Chile	South America	T4	T4E	2010
+KY964316	Cornea	Malaysia	Asia	T4	T4E	2017
+KY859170	Cornea	India	Asia	T4	T4E	2017
+JF702896	Contact lens case	Chile	South America	T4	T4E	2006
+JF702908	Contact lens case	Chile	South America	T4	T4E	2006
+MH100844	Cornea	Chile	South America	T4	T4E	2010
+MH100846	Cornea	Chile	South America	T4	T4E	2010
+EU168081	Cornea	USA	North America	T4	T4E	2012
+EU168082	Cornea	USA	North America	T4	T4E	2012
+HM036176	Cornea	Sweden	Europe	T4	T4E	2010
+KX688014	Cornea	Chile	South America	T4	T4E	2016
+KJ631481	Cornea	China	Asia	T4	T4Neff	2014
+MK713905	Cornea	India	Asia	T4	T4E	2019
+AF260722	Cornea	Austria	Europe	T4	T4E	2000
+AY393990	Cornea	China	Asia	T4	T4E	2003
+FJ422512	Cornea	USA	North America	T4	T4E	2009
+MT250851	Cornea	France	Europe	T4	T4E	2020
+MT250852	Cornea	France	Europe	T4	T4E	2020
+AY148955	Cornea	South Korea	Asia	T4	T4E	2003
+AY393975	Cornea	China	Asia	T4	T4E	2003
+AY393993	Cornea	China	Asia	T4	T4E	2003
+EF140631	Cornea	South Korea	Asia	T4	T4E	2006
+EU168076	Cornea	USA	North America	T4	T4E	2012
+JF702912	Contact lens case	Chile	South America	T4	T4E	2006
+JX423590	Cornea	USA	North America	T4	T4E	2012
+JX423595	Cornea	USA	North America	T4	T4E	2012
+KJ631463	Cornea	China	Asia	T4	T4E	2014
+KJ631464	Cornea	China	Asia	T4	T4E	2014
+KJ631465	Cornea	China	Asia	T4	T4E	2014
+KJ631466	Cornea	China	Asia	T4	T4E	2014
+KJ631467	Cornea	China	Asia	T4	T4E	2014
+KJ631468	Cornea	China	Asia	T4	T4E	2014
+KJ631469	Cornea	China	Asia	T4	T4E	2014
+KJ631470	Cornea	China	Asia	T4	T4E	2014
+KJ631471	Cornea	China	Asia	T4	T4E	2014
+KJ631472	Cornea	China	Asia	T4	T4E	2014
+KJ631473	Cornea	China	Asia	T4	T4E	2014
+KJ631474	Cornea	China	Asia	T4	T4E	2014
+KJ631475	Cornea	China	Asia	T4	T4E	2014
+KJ631476	Cornea	China	Asia	T4	T4E	2014
+KJ631477	Cornea	China	Asia	T4	T4E	2014
+KJ631478	Cornea	China	Asia	T4	T4E	2014
+KJ631479	Cornea	China	Asia	T4	T4E	2014
+KJ631480	Cornea	China	Asia	T4	T4E	2014
+KP120879	Cornea	Poland	Europe	T4	T4E	2014
+KU936114	Cornea	Iran	Asia	T4	T4E	2016
+MF671962	Cornea	Poland	Europe	T4	T4E	2017
+EU741252	Cornea	Italy	Europe	T4	T4E	2008
+MT250844	Cornea	France	Europe	T4	T4E	2020
+EU934052	Contact lens case	Iran	Asia	T4	T4Neff	2008
+AY148964	Cornea	South Korea	Asia	T4	T4Neff	2003
+EF140639	Cornea	South Korea	Asia	T4	T4Neff	2006
+HF930500	Cornea	France	Europe	T4	T4Neff	2013
+HF930501	Cornea	France	Europe	T4	T4Neff	2013
+KJ631462	Cornea	China	Asia	T4	T4Neff	2014
+MK578678	Cornea	India	Asia	T4	T4Neff	2019
+KJ631520	Cornea	China	Asia	T4	T4Neff	2014
+KU936117	Cornea	Iran	Asia	T4	T4Neff	2016
+AF352387	Cornea	Germany	Europe	T4	T4Neff	2001
+MF350344	Cornea	Egypt	Africa	T4	T4Neff	2017
+KY859167	Cornea	India	Asia	T4	T4Neff	2017
+KY859168	Cornea	India	Asia	T4	T4Neff	2017
+KY859169	Cornea	India	Asia	T4	T4Neff	2017
+AY393977	Cornea	China	Asia	T4	T4Neff	2003
+KJ631514	Cornea	China	Asia	T4	T4Neff	2014
+KJ631515	Cornea	China	Asia	T4	T4Neff	2014
+KJ631516	Cornea	China	Asia	T4	T4Neff	2014
+KJ631521	Cornea	China	Asia	T4	T4Neff	2014
+KJ631522	Cornea	China	Asia	T4	T4Neff	2014
+AY393981	Cornea	China	Asia	T4	T4Neff	2003
+KJ631517	Cornea	China	Asia	T4	T4Neff	2014
+KJ631518	Cornea	China	Asia	T4	T4Neff	2014
+KJ631519	Cornea	China	Asia	T4	T4Neff	2014
+KP863886	Cornea	Spain	Europe	T4 	T4Neff	2015
+KP863884	Cornea	Spain	Europe	T4	T4Neff	2015
+KP863874	Cornea	Spain	Europe	T4	T4Neff	2015
+KP863875	Cornea	Spain	Europe	T4	T4Neff	2015
+AF534137	Cornea	India	Asia	T4	T4Neff	2002
+DQ087301	Contact lens case	France	Europe	T4	T4Neff	2005
+KJ094675	Cornea	Italy	Europe	T4	T4Neff	2014
+KJ094691	Cornea	Italy	Europe	T4	T4Neff	2014
+KP863871	Cornea	Spain	Europe	T4	T4Neff	2015
+KP863873	Cornea	Spain	Europe	T4	T4Neff	2015
+KP863877	Cornea	Spain	Europe	T4	T4Neff	2015
+KP863878	Cornea	Spain	Europe	T4	T4Neff	2015
+KP863879	Cornea	Spain	Europe	T4	T4Neff	2015
+KP863880	Cornea	Spain	Europe	T4	T4Neff	2015
+KP863881	Cornea	Spain	Europe	T4	T4Neff	2015
+KP863885	Cornea	Spain	Europe	T4	T4Neff	2015
+MF350345	Cornea	Egypt	Africa	T4	T4Neff	2017
+KP863872	Cornea	Spain	Europe	T4	T4Neff	2015
+KP863876	Cornea	Spain	Europe	T4	T4Neff	2015
+KP863882	Cornea	Spain	Europe	T4	T4Neff	2015
+MH100810	Cornea	Chile	South America	T4	T4Neff	2010
+MH100811	Cornea	Chile	South America	T4	T4Neff	2010
+MH100845	Cornea	Chile	South America	T4	T4E	2010
+MH100843	Cornea	Chile	South America	T4	T4E	2010
+MW411852	Cornea	Brazil	South America	T4	T4F	2019
+MZ576090	Cornea	Iraq	Asia	T11	T11	2021
+HM036186	Cornea	Sweden	Europe	T11	T11	2010
+KX709495	Contact lens case	India	Asia	T11	T11	2016
+KJ631426	Cornea	China	Asia	T11	T11	2014
+MK713912	Cornea	India	Asia	T11	T11	2019
+KX709493	Contact lens solution	India	Asia	T11	T11	2016
+KX709494	Cornea	India	Asia	T11	T11	2016
+KX709492	Cornea	India	Asia	T11	T11	2016
+KX688037	Cornea	Chile	South America	T11	T11	2016
+KX688038	Cornea	Chile	South America	T11	T11	2016
+KX688040	Cornea	Chile	South America	T11	T11	2016
+KX688039	Cornea	Chile	South America	T11	T11	2016
+KX709491	Cornea	India	Asia	T11	T11	2016
+FJ042645	Cornea	Israel	Asia	T11	T11	2008
+KU936108	Cornea	Iran	Asia	T11	T11	2016
+KJ094683	Cornea	Italy	Europe	T11	T11	2014
+KU936113	Cornea	Iran	Asia	T11	T11	2016
+DQ087292	Contact lens case	France	Europe	T11	T11	2005
+MT250843	Cornea	France	Europe	T11	T11	2020
+HM778019	Cornea	Spain	Europe	T11	T11	2010
+AF251937	Cornea	Austria	Europe	T11	T11	2000
+DQ087291	Contact lens case	France	Europe	T11	T11	2005
+JF702889	Contact lens case	Chile	South America	T11	T11	2006
+MH100823	Cornea	Chile	South America	T4	T4F	2010
+MH100824	Cornea	Chile	South America	T4	T4F	2010
+KU935611	Contact lens case	Germany	Europe	T4	T4F	2016
+FJ422527	Cornea	USA	North America	T4	T4F	2009
+KJ476516	Contact lens case	Germany	Europe	T4	T4F	2014
+KJ476517	Contact lens case	Germany	Europe	T4	T4F	2014
+KP236736	Contact lens case	Germany	Europe	T4	T4F	2014
+AB795719	Cornea	Japan	Asia	T4	T4F	2007
+AY148954	Cornea	South Korea	Asia	T4	T4F	2003
+DQ087320	Contact lens case	France	Europe	T4	T4F	2005
+FJ042640	Cornea	Israel	Asia	T4	T4F	2008
+JN222978	Cornea	Brazil	South America	T4	T4F	2011
+JX423593	Cornea	USA	North America	T4	T4F	2012
+KJ094693	Cornea	Italy	Europe	T4	T4F	2014
+KY964318	Cornea	Malaysia	Asia	T4	T4F	2017
+KY964321	Cornea	Malaysia	Asia	T4	T4F	2017
+AF534154	Cornea	India	Asia	T4	T4F	2002
+GQ342612	Cornea	China	Asia	T4	T4F	2009
+KJ631512	Cornea	China	Asia	T4	T4F	2014
+KJ631513	Cornea	China	Asia	T4	T4F	2014
+AF349045	Cornea	South Korea	Asia	T4	T4F	2001
+AF343561	Cornea	USA	North America	T4	T4F	2001
+KJ631509	Cornea	China	Asia	T4	T4F	2014
+KJ631510	Cornea	China	Asia	T4	T4F	2014
+KJ631511	Cornea	China	Asia	T4	T4F	2014
+MN099283	Cornea	India	Asia	T4	T4F	2019
+LC368141	Cornea	Japan	Asia	T4	T4F	2018
+AY694139	Cornea	India	Asia	T4	T4F	2004
+AY694142	Cornea	India	Asia	T4	T4F	2004
+AF534146	Cornea	India	Asia	T4	T4F	2002
+MH100826	Cornea	Chile	South America	T4	T4F	2010
+AF534150	Cornea	India	Asia	T4	T4F	2002
+JX009197	Contact lens case	Tunisia	Africa	T4	T4F	2012
+AF534145	Cornea	India	Asia	T4	T4B	2002
+AF534148	Cornea	India	Asia	T4	T4F	2002
+AY393995	Cornea	China	Asia	T4	T4F	2003
+AF441796	Cornea	China	Asia	T4	T4F	2001
+AF441797	Cornea	China	Asia	T4	T4F	2001
+AF534143	Cornea	India	Asia	T4	T4F	2002
+AF534153	Cornea	India	Asia	T4	T4F	2002
+MK356382	Cornea	Iran	Asia	T4	T4B	2019
+KY072782	Cornea	Spain	Europe	T4	T4B	2016
+AY694140	Cornea	India	Asia	T4	T4B	2004
+MG917704	Cornea	Iran	Asia	T4	T4B	2018
+MK713927	Cornea	India	Asia	T4	T4B	2019
+KR809864	Cornea	India	Asia	T4	T4B	2015
+MG917707	Cornea	Iran	Asia	T4	T4B	2018
+HM048978	Cornea	Thailand	Asia	T4	T4B	2010
+MK713899	Cornea	India	Asia	T4	T4B	2019
+HM043808	Cornea	Thailand	Asia	T4	T4B	2010
+MH791025	Contact lens case	Malaysia	Asia	T4	T4B	2018
+KT934533	Cornea	Spain	Europe	T4	T4B	2015
+KT934537	Cornea	Spain	Europe	T4	T4B	2015
+MK713925	Cornea	India	Asia	T4	T4B	2019
+AB741045	Cornea	Japan	Asia	T4	T4B	2007
+KU877552	Cornea	Iran	Asia	T4	T4B	2016
+KU877553	Cornea	Iran	Asia	T4	T4B	2016
+MG917703	Cornea	Iran	Asia	T4	T4B	2018
+AB741046	Cornea	Japan	Asia	T4	T4B	2007
+KT735324	Cornea	Italy	Europe	T4	T4B	2015
+AF534155	Cornea	Pakistan	Asia	T4	T4B	2002
+FJ422524	Cornea	USA	North America	T4	T4B	2009
+FJ422525	Cornea	USA	North America	T4	T4B	2009
+GQ342617	Cornea	China	Asia	T4	T4B	2009
+JX423600	Cornea	USA	North America	T4	T4B	2012
+KJ631504	Cornea	China	Asia	T4	T4B	2014
+KU936118	Cornea	Iran	Asia	T4	T4B	2016
+MH038174	Cornea	Thailand	Asia	T4	T4B	2018
+MK713910	Cornea	India	Asia	T4	T4B	2019
+MK713913	Cornea	India	Asia	T4	T4B	2019
+MK713902	Cornea	India	Asia	T4	T4B	2019
+MK713909	Cornea	India	Asia	T4	T4B	2019
+MK713907	Cornea	India	Asia	T4	T4B	2019
+AF534147	Cornea	India	Asia	T4	T4B	2002
+MK713908	Cornea	India	Asia	T4	T4B	2019
+AY148957	Cornea	South Korea	Asia	T4	T4B	2003
+KY859175	Cornea	India	Asia	T4	T4B	2017
+KY859174	Cornea	India	Asia	T4	T4B	2017
+KY859173	Cornea	India	Asia	T4	T4B	2017
+DQ087308	Contact lens case	France	Europe	T4	T4B	2005
+AF019057	Cornea	USA	North America	T4	T4B	1998
+AF019058	Cornea	USA	North America	T4	T4B	1998
+AF343560	Cornea	USA	North America	T4	T4B	2001
+AF343564	Cornea	USA	North America	T4	T4B	2001
+AF441801	Cornea	China	Asia	T4	T4B	2001
+AF441809	Cornea	China	Asia	T4	T4B	2001
+AF441810	Cornea	China	Asia	T4	T4B	2001
+AF534140	Cornea	Pakistan	Asia	T4	T4B	2002
+AF534151	Cornea	India	Asia	T4	T4B	2002
+AY148958	Cornea	South Korea	Asia	T4	T4B	2003
+AY552093	Contact lens case	USA	North America	T4	T4B	2004
+AY552096	Cornea	USA	North America	T4	T4B	2004
+DQ087306	Contact lens case	France	Europe	T4	T4B	2005
+DQ087307	Contact lens case	France	Europe	T4	T4B	2005
+DQ087309	Contact lens case	France	Europe	T4	T4B	2005
+DQ087310	Contact lens case	France	Europe	T4	T4B	2005
+DQ087311	Contact lens case	France	Europe	T4	T4B	2005
+DQ087313	Contact lens case	France	Europe	T4	T4B	2005
+EF140632	Cornea	South Korea	Asia	T4	T4B	2006
+EU168073	Cornea	USA	North America	T4	T4B	2012
+FJ042641	Cornea	Israel	Asia	T4	T4B	2008
+FJ042647	Cornea	Israel	Asia	T4	T4B	2008
+FJ422514	Cornea	USA	North America	T4	T4B	2009
+FJ422515	Cornea	USA	North America	T4	T4B	2009
+FJ422516	Cornea	USA	North America	T4	T4B	2009
+FJ422517	Cornea	USA	North America	T4	T4B	2009
+FJ422518	Cornea	USA	North America	T4	T4B	2009
+FJ422519	Cornea	USA	North America	T4	T4B	2009
+FJ422520	Cornea	USA	North America	T4	T4B	2009
+FJ422521	Cornea	USA	North America	T4	T4B	2009
+FJ422522	Cornea	USA	North America	T4	T4B	2009
+FJ422523	Cornea	USA	North America	T4	T4B	2009
+GQ905498	Cornea	Slovakia	Europe	T4	T4B	2009
+JF702873	Contact lens case	Chile	South America	T4	T4B	2006
+KJ476518	Contact lens case	Germany	Europe	T4	T4B	2014
+KJ631503	Cornea	China	Asia	T4	T4B	2014
+KJ631505	Cornea	China	Asia	T4	T4B	2014
+KJ631506	Cornea	China	Asia	T4	T4B	2014
+KJ631507	Cornea	China	Asia	T4	T4B	2014
+KT735333	Cornea	Italy	Europe	T4	T4B	2015
+KT735335	Cornea	Italy	Europe	T4	T4B	2015
+KX688018	Cornea	Chile	South America	T4	T4B	2016
+KY563326	Contact lens case	Germany	Europe	T4	T4B	2016
+KY964312	Contact lens case	Malaysia	Asia	T4	T4B	2017
+KY964313	Cornea	Malaysia	Asia	T4	T4B	2017
+KY964314	Cornea	Malaysia	Asia	T4	T4B	2017
+KY964315	Cornea	Malaysia	Asia	T4	T4B	2017
+MF671968	Cornea	Poland	Europe	T4	T4B	2017
+MH100806	Cornea	Chile	South America	T4	T4B	2010
+MH100841	Cornea	Chile	South America	T4	T4B	2010
+MH100842	Cornea	Chile	South America	T4	T4B	2010
+MH791017	Contact lens case	Malaysia	Asia	T4	T4B	2018
+MH791018	Contact lens case	Malaysia	Asia	T4	T4B	2018
+MH791019	Contact lens case	Malaysia	Asia	T4	T4B	2018
+MH791021	Contact lens case	Malaysia	Asia	T4	T4B	2018
+MH791022	Contact lens case	Malaysia	Asia	T4	T4B	2018
+MH791024	Contact lens case	Malaysia	Asia	T4	T4B	2018
+MK713903	Cornea	India	Asia	T4	T4B	2019
+MK713904	Cornea	India	Asia	T4	T4B	2019
+MK713916	Cornea	India	Asia	T4	T4B	2019
+EU934055	Contact lens case	Iran	Asia	T4	T4B	2008
+MK713911	Cornea	India	Asia	T4	T4B	2019
+KT735330	Cornea	Italy	Europe	T4	T4B	2015
+FJ422526	Cornea	USA	North America	T4	T4B	2009
+AF441798	Cornea	China	Asia	T4	T4B	2001
+DQ087312	Contact lens case	France	Europe	T4	T4B	2005
+GQ905496	Cornea	Slovakia	Europe	T4	T4B	2009
+HF930499	Cornea	France	Europe	T4	T4B	2013
+JX009201	Contact lens case	Tunisia	Africa	T4	T4B	2012
+JX043489	Cornea	Thailand	Asia	T4	T4B	2012
+KU936119	Cornea	Iran	Asia	T4	T4B	2016
+MH038175	Cornea	Thailand	Asia	T4	T4B	2018
+MF576374	Cornea	Malaysia	Asia	T4	T4B	2017
+KT934532	Cornea	Spain	Europe	T4	T4B	2015
+JX009198	Contact lens case	Tunisia	Africa	T4	T4B	2012
+JX009199	Contact lens case	Tunisia	Africa	T4	T4B	2012
+JX009200	Contact lens case	Tunisia	Africa	T4	T4B	2012
+KT934539	Cornea	Spain	Europe	T4	T4B	2015
+MT250845	Cornea	France	Europe	T4	T4B	2020
+KJ094681	Cornea	Italy	Europe	T4	T4B	2014
+HM048979	Cornea	Thailand	Asia	T4	T4B	2010
+AB447387	Cornea	Japan	Asia	T4	T4B	2008
+AB447388	Contact lens case	Japan	Asia	T4	T4B	2008
+AB554225	Cornea	Japan	Asia	T4	T4B	2010
+AB554226	Contact lens case	Japan	Asia	T4	T4B	2010
+AB554227	Contact lens case	Japan	Asia	T4	T4B	2010
+AB554228	Cornea	Japan	Asia	T4	T4B	2010
+AB554229	Contact lens case	Japan	Asia	T4	T4B	2010
+DQ087300	Cornea	France	Europe	T4	T4B	2005
+EU146068	Cornea	France	Europe	T4	T4B	2007
+JX423588	Cornea	USA	North America	T4	T4B	2012
+AF260723	Cornea	Austria	Europe	T4	T4B	2000
+KT735325	Cornea	Italy	Europe	T4	T4B	2015
+KJ094688	Cornea	Italy	Europe	T4	T4B	2014
+AF260721	Cornea	Austria	Europe	T4	T4B	2000
+AF441803	Cornea	China	Asia	T4	T4B	2001
+AF441804	Cornea	China	Asia	T4	T4B	2001
+AF534136	Cornea	India	Asia	T4	T4B	2002
+AF534138	Cornea	India	Asia	T4	T4B	2002
+AY393984	Cornea	China	Asia	T4	T4B	2003
+DQ087325	Cornea	France	Europe	T4	T4B	2005
+EU741250	Cornea	Italy	Europe	T4	T4B	2008
+EU741253	Cornea	Italy	Europe	T4	T4B	2008
+KJ094657	Cornea	Italy	Europe	T4	T4B	2014
+KJ094667	Cornea	Italy	Europe	T4	T4B	2014
+KJ631508	Cornea	China	Asia	T4	T4B	2014
+MT250847	Cornea	France	Europe	T4	T4B	2020
+MT250850	Cornea	France	Europe	T4	T4B	2020
+JX423596	Cornea	USA	North America	T4	T4B	2012
+JX423597	Cornea	USA	North America	T4	T4B	2012
+EU168074	Cornea	USA	North America	T4	T4B	2012
+EU168077	Cornea	USA	North America	T4	T4B	2012
+MG917705	Cornea	Iran	Asia	T4	T4B	2018
+MH791020	Contact lens case	Malaysia	Asia	T4	T4B	2018
+MH791023	Contact lens case	Malaysia	Asia	T4	T4B	2018
+FJ042650	Cornea	Israel	Asia	T4	T4B	2008
+KY072778	Cornea	Spain	Europe	T4	T4B	2016
+KT735329	Cornea	Italy	Europe	T4	T4B	2015
+KJ476514	Cornea	Germany	Europe	T4	T4B	2014
+JX423606	Cornea	USA	North America	T4	T4B	2011
+DQ087324	Contact lens case	France	Europe	T4	T4B	2005
